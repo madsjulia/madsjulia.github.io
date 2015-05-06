@@ -1,0 +1,34 @@
+lucida {
+	font-family: Lucida Console, Monaco, monospace;
+}
+a:img {
+	border: 0;
+}
+a:link, a:visited, a:hover, a:active {
+	text-decoration: none;
+	color: #FF8040;
+}
+body {
+	background-color: gray;
+	font-family: Lucida Console, Monaco, monospace;
+	margin-top: 10px;
+	margin-bottom: 5px;
+	margin-left: 5px;
+	margin-right: 5px;
+}
+h1, h2, h3, h4, h5, h6 {
+	color: #FF8040;
+}
+div.wrapContainer {
+	width: auto;
+	float: right;
+}
+li {
+	margin: 20px 0;
+}
+strong2 {
+	color: #FF8040;
+}
+strong {
+	color: #85AC1E;
+}
