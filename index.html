@@ -1,49 +1,207 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
-	<head>
-		<title>madspy</title>
-		<link rel="icon" type="image/png"  href="images/favicon.ico">
-		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-		<meta name="google-site-verification" content="mYG7IMALwG8a-IE4UkL_Gpx54XHx0JRkchgcbeXJTZY" />
-		<meta name="description" content="MADSpy python MADS scripts model anlayses decision support Velimir Vesselinov monty hydrology hydrogeology groundwater aquifer vadose unsaturated publications presentations reports projects codes" />
-		<meta name="keywords" content="MADSpy python MADS scripts model anlayses decision support hydrology hydrogeology groundwater aquifer vadose unsaturated publications presentations reports projects codes"/>
-		<link rel="stylesheet" type="text/css" href="css/main.css" />
-		<script type="text/javascript">
-			var _gaq = _gaq || [];
-			_gaq.push(['_setAccount', 'UA-25709172-1']);
-			_gaq.push(['_trackPageview']);
-			(function() {
-				var ga = document.createElement('script');
-				ga.type = 'text/javascript';
-				ga.async = true;
-				ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-				var s = document.getElementsByTagName('script')[0];
-				s.parentNode.insertBefore(ga, s);
-			})();
-			if (screen.width <= 800) {
-				// window.location = "mobile.html";
-			}
-		</script>
-	</head>
-	<body>
-		<div style="text-align:center">
-			<a href="http://mads.lanl.gov">
-				<br />
-				<img src="images/mads_white_swan_logo_big_text.png" width="300" />
-				<br />
-				<img src="images/julia-logo.png" width="108" />
-				<h2>
-					MADSJulia: Julia scripts for MADS 
-					<br />
-					(Model Analyses and Decision Support)
-				</h2>
-				<h2>
-					Coming soon!
-				</h2>
-				<h2>
-					Checkout the MADS website!
-				</h2>
-			</a>
+<!DOCTYPE html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+	<link rel="shortcut icon" href="./mads_logos/mads-favicon.ico">
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0, user-scalable=no"/>
+	<title>Mads.jl: Model Analysis &amp; Decision Support</title>
+	<!-- Font  -->
+	<link href='https://fonts.googleapis.com/css?family=Rubik:400,900,700,500' rel='stylesheet' type='text/css'>
+	<link href='https://fonts.googleapis.com/css?family=Titillium+Web:400,900' rel='stylesheet' type='text/css'>
+	<link href='https://fonts.googleapis.com/css?family=Khula:400,800,700,600' rel='stylesheet' type='text/css'>
+	<!-- CSS  -->
+	<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+	<link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection"/>
+	<link href="css/style.css" type="text/css" rel="stylesheet" media="screen,projection"/>
+</head>
+<body>
+	<!-- Dropdown Structure -->
+	<ul id="DocumentationDD" class="dropdown-content">
+		<li><a href="#!">Overview</a></li>
+		<li><a href="#!">Features</a></li>
+		<li><a href="#!">Methods</a></li>
+		<li><a href="#!">Examples</a></li>
+		<li><a href="#!">Screen shots</a></li>
+		<li><a href="#!">Comparisons</a></li>
+		<li><a href="#!">Manual</a></li>
+	</ul>
+	<ul id="ResearchDD" class="dropdown-content">
+		<li><a href="#!">Reports</a></li>
+		<li><a href="#!">Publications</a></li>
+		<li><a href="#!">Presentations</a></li>
+		<li><a href="#!">Projects</a></li>
+		<li><a href="#!">Applications</a></li>
+		<li><a href="#!">Developers</a></li>
+	</ul>
+	<nav class="orange black-text" role="navigation">
+		<div class="nav-wrapper container white-text">
+			<a id="logo-container" href="#" class="brand-logo white-text"><img style="vertical-align: middle;" width=150px src="mads_logos/mads_white_swan_logo_big_text.png" alt="madswan"></a>
+			<ul class="right hide-on-med-and-down bold">
+				<li><a class="dropdown-button" href="#!" data-activates="DocumentationDD">Documentation</a></li>
+				<li><a class="dropdown-button" href="#!" data-activates="ResearchDD">Theory &amp; Research</a></li>
+				<li><a href="#">Downloads</a></li>
+			</ul>
+			<ul id="nav-mobile" class="side-nav bold">
+				<li class="no-padding">
+					<ul class="collapsible collapsible-accordion">
+						<li>
+							<a class="collapsible-header">Documentation<i class="mdi-navigation-arrow-drop-down"></i></a>
+							<div class="collapsible-body">
+								<ul>
+									<li><a href="#!">Overview</a></li>
+									<li><a href="#!">Features</a></li>
+									<li><a href="#!">Methods</a></li>
+									<li><a href="#!">Applications</a></li>
+									<li><a href="#!">Examples</a></li>
+									<li><a href="#!">Screen shots</a></li>
+									<li><a href="#!">Comparisons</a></li>
+									<li><a href="#!">Manual</a></li>
+								</ul>
+							</div>
+						</li>
+					</ul>
+				</li>
+				<li class="no-padding">
+					<ul class="collapsible collapsible-accordion">
+						<li>
+							<a class="collapsible-header">Theory &amp; Research<i class="mdi-navigation-arrow-drop-down"></i></a>
+							<div class="collapsible-body">
+								<ul>
+									<li><a href="#!">Publications</a></li>
+									<li><a href="#!">Presentations</a></li>
+									<li><a href="#!">Projects</a></li>
+									<li><a href="#!">Reports</a></li>
+									<li><a href="#!">Applications</a></li>
+									<li><a href="#!">Developers</a></li>
+								</ul>
+							</div>
+						</li>
+					</ul>
+				</li>
+				<li><a href="#">Download</a></li>
+				<li><a href="#">Contact</a></li>
+			</ul>
+			<a href="#" data-activates="nav-mobile" class="button-collapse"><i class="material-icons black-text">menu</i></a>
 		</div>
-	</body>
+	</nav>
+
+	<div id="index-banner" class="parallax-container" style="height: 10px;">
+		<div class="section no-pad-bot" style="height: 10px;">
+			<div class="container" style="height: 10px;">
+				<div class="row center">
+					<h1 class="header orange-text">MADS</h1>
+				</div>
+				<div class="row center">
+					<h4 class="header cyan-text align-center">Model Analysis &amp; Decision Support</h4>
+				</div>
+				<form>
+					<div class="input-field">
+						<input id="search" type="search" required>
+						<label for="search"><i class="material-icons">search</i></label>
+						<i class="material-icons">close</i>
+					</div>
+				</form>
+			</div>
+		</div>
+		<div class="parallax"><img src="images/dark.jpg" alt="mads_big_logo"></div>
+	</div>
+
+	<div class="container" style="height: 100px;">
+		<div class="section">
+			<div class="row">
+				<div class="row center">
+					<div class="col s12 m4">
+						<img style="margin-top: 10px;" width=100px src="logos/julia-logo.png" alt="julia">
+					</div>
+					<div class="col s12 m4">
+						<h1 class="header orange-text bold"></h1>
+					</div>
+					<div class="col s12 m4">
+						<img width=180px src="mads_logos/mads_white_swan_logo_big_text.png" alt="madswan">
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<div class="parallax-container valign-wrapper" >
+		<div class="section no-pad-bot">
+			<div class="container" style="height: 100px;">
+				<div class="row align-left">
+					<h3 class="header col s12 light">Documentation</h3>
+				</div>
+			</div>
+		</div>
+		<div class="parallax"><img src="images/dark.jpg" alt="Unsplashed background img 2"></div>
+	</div>
+
+	<div class="container">
+		<div class="section">
+			<div class="row">
+				<div class="col s12 center">
+					<!-- <h3><i class="mdi-content-send brown-text"></i></h3> -->
+					<h3>Theory &amp; Research</h3>
+					<div class="section">
+						<div class="row">
+							<div class="col s12 m4">
+								<div class="icon-block">
+									<!-- <h2 class="center brown-text"><i class="material-icons">flash_on</i></h2> -->
+									<h5 class="center">Publications</h5>
+									<p class="light"></p>
+								</div>
+							</div>
+							<div class="col s12 m4">
+								<div class="icon-block">
+									<!-- <h2 class="center brown-text"><i class="material-icons">group</i></h2> -->
+									<h5 class="center">Presentations</h5>
+									<p class="light"></p>
+								</div>
+							</div>
+							<div class="col s12 m4">
+								<div class="icon-block">
+									<!-- <h2 class="center brown-text"><i class="material-icons">settings</i></h2> -->
+									<h5 class="center">Projects</h5>
+									<p class="light"></p>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+
+	<div class="parallax-container valign-wrapper">
+		<div class="section no-pad-bot">
+			<div class="container">
+				<div class="row align-left">
+					<h3 class="header col s12 light">Downloads</h3>
+				</div>
+			</div>
+		</div>
+		<div class="parallax"><img src="images/dark.jpg" alt="Unsplashed background img 3"></div>
+	</div>
+
+	<footer class="page-footer orange">
+		<div class="container">
+			<div class="row">
+				<div class="col l6 s12">
+					<h5 class="white-text">Contact us: mads@lanl.gov</h5>
+					<p class="grey-text text-lighten-4"></p>
+					<div class="footer-copyright">
+						<div class="container">
+							MADS Developers
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</footer>
+	<!--  Scripts-->
+	<script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+	<script src="js/materialize.js"></script>
+	<script src="js/init.js"></script>
+</body>
 </html>

@@ -10,7 +10,7 @@ a:link, a:visited, a:hover, a:active {
 }
 body {
 	background-color: gray;
-	font-family: Lucida Console, Monaco, monospace;
+	font-family: 'Chango', Lucida Console, Monaco, monospace;
 	margin-top: 10px;
 	margin-bottom: 5px;
 	margin-left: 5px;
