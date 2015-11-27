@@ -19,10 +19,10 @@ body {
   font-family: 'Rubik', sans-serif;
 }
 
-div div ul {
+.pagecontent div ul {
   padding: 0 0 0 50px;
 }
-div div ul li {
+.pagecontent div ul li {
   list-style-type: circle;
 }
 
@@ -38,10 +38,10 @@ h5 {
   font-weight: 400;
 }
 
-div div a:link,
-div div a:visited,
-div div a:hover,
-div div a:active {
+.pagecontent div a:link,
+.pagecontent div a:visited,
+.pagecontent div a:hover,
+.pagecontent div a:active {
   text-decoration: none;
   color: orange;
 }
