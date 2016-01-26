@@ -13,11 +13,16 @@
 	<link href="css/style.css" type="text/css" rel="stylesheet" media="screen,projection"/>
 	<!--  Scripts-->
 	<script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+	<script src="http://code.jquery.com/jquery-migrate-1.0.0.js"></script>
+	<script src="js/jquery.history.js"></script>
 	<script src="js/materialize.js"></script>
 	<script src="js/init.js"></script>
+	<script src="js/main-functions.js"></script>
+	<script src="js/main-start.js"></script>
 </head>
 <body>
 	<!-- Dropdown Structure -->
+	<!--
 	<ul id="DocumentationDD" class="dropdown-content">
 		<li><a href="#!">Overview</a></li>
 		<li><a href="#!">Features</a></li>
@@ -25,7 +30,7 @@
 		<li><a href="#!">Examples</a></li>
 		<li><a href="#!">Screen shots</a></li>
 		<li><a href="#!">Comparisons</a></li>
-		<li><a href="#!">Manual</a></li>
+		<li><a href="#mads-manual">Manual</a></li>
 	</ul>
 	<ul id="ResearchDD" class="dropdown-content">
 		<li><a href="#!">Reports</a></li>
@@ -35,16 +40,20 @@
 		<li><a href="#!">Applications</a></li>
 		<li><a href="#!">Developers</a></li>
 	</ul>
+	-->
 	<div class="navbar-fixed">
 		<nav class="orange black-text" role="navigation">
 			<div class="nav-wrapper container white-text">
 				<a id="logo-container" href="#" class="brand-logo white-text"><img style="vertical-align: middle;" width=150px src="mads_logos/mads_white_swan_logo_big_text.png" alt="madswan"></a>
 				<ul class="right hide-on-med-and-down bold">
+					<!--
 					<li><a class="dropdown-button" href="#!" data-activates="DocumentationDD">Documentation</a></li>
 					<li><a class="dropdown-button" href="#!" data-activates="ResearchDD">Theory &amp; Research</a></li>
+					-->
 					<li><a href="#downloads">Downloads</a></li>
 				</ul>
 				<ul id="nav-mobile" class="side-nav bold">
+					<!--
 					<li class="no-padding">
 						<ul class="collapsible collapsible-accordion">
 							<li>
@@ -58,7 +67,7 @@
 										<li><a href="#!">Examples</a></li>
 										<li><a href="#!">Screen shots</a></li>
 										<li><a href="#!">Comparisons</a></li>
-										<li><a href="#!">Manual</a></li>
+										<li><a href="#mads-manual">Manual</a></li>
 									</ul>
 								</div>
 							</li>
@@ -81,6 +90,7 @@
 							</li>
 						</ul>
 					</li>
+					-->
 					<li><a href="#downloads">Downloads</a></li>
 					<li><a href="#contact">Contact</a></li>
 				</ul>
@@ -107,6 +117,7 @@
 	<div id="pagecontent" class="pagecontent">
 	</div>
 
+<!--
 	<div class="parallax-container valign-wrapper" >
 		<div id="documentation" class="section no-pad-bot">
 			<div class="container scrollspy">
@@ -158,14 +169,21 @@
 			</div>
 		</div>
 	</div>
-
+-->
 	<div class="parallax-container valign-wrapper scrollspy pagecontent">
 		<div id="downloads"  class="section no-pad-top scrollspy">
 			<div class="container">
 				<div class="row left">
 					<h3 class="light">Downloads</h3>
-					<h5><a href="https://gitlab.com/madsjl/Mads.jl">gitlab.com/madsjl/Mads.jl</a> (Julia version)</h5>
-					<h5><a href="https://gitlab.com/mads/Mads">gitlab.com/mads/Mads</a> (C/C++ version)</h5>
+					<h5>
+					Julia version:<br />
+					<a href="https://gitlab.com/madsjl/Mads.jl">gitlab.com/madsjl/Mads.jl</a><br />
+					<a href="https://github.com/madsjulia/Mads">github.com/madsjulia/Mads</a>
+					</h5>
+					<h5>
+					C/C++ version:<br />
+					<a href="https://gitlab.com/mads/Mads">gitlab.com/mads/Mads</a>
+					</h5>
 				</div>
 			</div>
 		</div>
@@ -176,7 +194,7 @@
 		<div in="contact" class="container scrollspy">
 			<div class="row">
 				<div class="col l6 s12">
-					<h5 class="white-text">Contact us: mads@lanl.gov</h5>
+					<h5 class="white-text">Contact: mads@lanl.gov</h5>
 					<p class="grey-text text-lighten-4"></p>
 					<div class="footer-copyright">
 						<div class="container">
@@ -187,11 +205,12 @@
 			</div>
 		</div>
 	</footer>
-	<script type="text/javascript">
+	<script>
 		$(document).ready(function(){
-			$('#pagecontent').load('mads-overview.html');
+			onload()
 			$('.scrollspy').scrollSpy();
 		});
 	</script>
+	<script src="js/main-end.js"></script>
 </body>
 </html>
