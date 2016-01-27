@@ -1,8 +1,10 @@
 sftp vvv@publish.lanl.gov << EOF
 cd /www/dev-green/docs/projects/madsjulia
 lcd ~/www-madsjulia
-put $1
-chmod 555 $1
+mkdir $1
+put -r $1
+cd $1
+chmod 555 *
 bye
 EOF
 echo Done.
