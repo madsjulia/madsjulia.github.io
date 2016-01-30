@@ -50,14 +50,17 @@
 					<li><a class="dropdown-button" href="#!" data-activates="DocumentationDD">Documentation</a></li>
 					<li><a class="dropdown-button" href="#!" data-activates="ResearchDD">Theory &amp; Research</a></li>
 					-->
-					<li><a href="#downloads">Downloads</a></li>
+					<li><a href="#documentation">Documentation</a></li>
+					<li><a href="#research">Research</a></li>
+					<li><a href="#download">Download</a></li>
+					<li><a href="#contact">Contact</a></li>
 				</ul>
 				<ul id="nav-mobile" class="side-nav bold">
 					<!--
 					<li class="no-padding">
 						<ul class="collapsible collapsible-accordion">
 							<li>
-								<a class="collapsible-header">Documentation<i class="mdi-navigation-arrow-drop-down"></i></a>
+								<a class="collapsible-header">Manual<i class="mdi-navigation-arrow-drop-down"></i></a>
 								<div class="collapsible-body">
 									<ul>
 										<li><a href="#!">Overview</a></li>
@@ -91,7 +94,9 @@
 						</ul>
 					</li>
 					-->
-					<li><a href="#downloads">Downloads</a></li>
+					<li><a href="#documentation">Documentation</a></li>
+					<li><a href="#research">Research</a></li>
+					<li><a href="#download">Download</a></li>
 					<li><a href="#contact">Contact</a></li>
 				</ul>
 				<a href="#" data-activates="nav-mobile" class="button-collapse"><i class="material-icons black-text">menu</i></a>
@@ -107,7 +112,7 @@
 				</div>
 				<div class="row center">
 					<h4 class="header cyan-text align-center">Model Analysis &amp; Decision Support</h4>
-					<h5> open-source high-performance computational framework for <br /> data- &amp; model-based analyses</h5>
+					<h5> open-source high-performance computational framework for <br /> data- &amp; model-based analyses in <br /> Julia and C</h5>
 				</div>
 			</div>
 		</div>
@@ -117,13 +122,24 @@
 	<div id="pagecontent" class="pagecontent">
 	</div>
 
-<!--
 	<div class="parallax-container valign-wrapper" >
 		<div id="documentation" class="section no-pad-bot">
 			<div class="container scrollspy">
-				<div class="row align-left">
+				<div class="row center">
 					<h3 class="header col s12 light">Documentation</h3>
 				</div>
+				<div class="row center">
+					<div class="col s12 m4">
+						<a href="http://madsjulia.github.io/Mads.jl"><h4 class="cyan-text">Julia version</h4></a>
+					</div>
+					<div class="col s12 m4">
+						<h4><-></h4>
+					</div>
+					<div class="col s12 m4">
+						<a href="http://mads.lanl.gov" class="cyan-text"><h4>C version</h4></a>
+					</div>
+				</div>
+				<!--
 				<form>
 					<div class="input-field">
 						<input id="search" type="search" required>
@@ -131,6 +147,7 @@
 						<i class="material-icons">close</i>
 					</div>
 				</form>
+				-->
 			</div>
 		</div>
 		<div class="parallax"><img src="images/dark.jpg" alt="Unsplashed background img 2"></div>
@@ -141,6 +158,8 @@
 			<div class="row">
 				<div class="col s12 center">
 					<h3>Theory &amp; Research</h3>
+					<h4>Coming soon</h4>
+					<!--
 					<div class="section">
 						<div class="row">
 							<div class="col s12 m4">
@@ -165,20 +184,21 @@
 							</div>
 						</div>
 					</div>
+					-->
 				</div>
 			</div>
 		</div>
 	</div>
--->
+
 	<div class="parallax-container valign-wrapper scrollspy pagecontent">
-		<div id="downloads"  class="section no-pad-top scrollspy">
+		<div id="download"  class="section no-pad-top scrollspy">
 			<div class="container">
 				<div class="row left">
-					<h3 class="light">Downloads</h3>
+					<h3 class="light">Download</h3>
 					<h5>
 					Julia version:<br />
-					<a href="https://gitlab.com/mads/Mads.jl">gitlab.com/mads/Mads.jl</a><br />
-					<a href="https://github.com/madsjulia/Mads.jl">github.com/madsjulia/Mads.jl</a>
+					<a href="https://github.com/madsjulia/Mads.jl">github.com/madsjulia/Mads.jl</a><br />
+					<a href="https://gitlab.com/mads/Mads.jl">gitlab.com/mads/Mads.jl</a>
 					</h5>
 					<h5>
 					C/C++ version:<br />
@@ -191,7 +211,7 @@
 	</div>
 
 	<footer class="page-footer orange">
-		<div in="contact" class="container scrollspy">
+		<div id="contact" class="container scrollspy">
 			<div class="row">
 				<div class="col l6 s12">
 					<h5 class="white-text">Contact: mads@lanl.gov</h5>
