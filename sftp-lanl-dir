@@ -4,7 +4,7 @@ lcd ~/www-madsjulia
 mkdir $1
 put -r $1
 cd $1
-chmod 555 *
+chmod 655 *
 bye
 EOF
 echo Done.
