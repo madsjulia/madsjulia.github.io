@@ -6993,6 +6993,10 @@ input[type=checkbox]:not(:disabled) ~ .lever:active:after {
     top: -14px;
     font-size: 0.8rem; }
 
+ul.browser-default li {
+  list-style-type: initial;
+}
+
 select {
   display: none; }
 
