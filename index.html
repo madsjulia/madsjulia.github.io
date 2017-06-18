@@ -17,8 +17,6 @@
 	<script src="js/jquery.history.js"></script>
 	<script src="js/materialize.js"></script>
 	<script src="js/init.js"></script>
-	<script src="js/main-functions.js"></script>
-	<script src="js/main-start.js"></script>
 </head>
 <body>
 	<!-- Dropdown Structure -->
@@ -94,6 +92,16 @@
 						</ul>
 					</li>
 				-->
+				<li>
+					<div class="userView">
+						<div class="background">
+							<img src="images/dark.jpg"><
+						</div>
+						<a href="#!user"><img src="mads_logos/mads_white_swan_logo.png" width="96"></a>
+						<a href="#!name"><span class="orange-text name">MADS</span></a>
+						<a href="#!email"><span class="orange-text email">mads@lanl.gov</span></a>
+					</div>
+				</li>
 				<li><a href="#documentation">Documentation</a></li>
 				<li><a href="#research">Research</a></li>
 				<li><a href="#downloads">Downloads</a></li>
@@ -120,6 +128,45 @@
 </div>
 
 <div id="pagecontent" class="pagecontent">
+	<div class="container">
+		<div class="section">
+			<p><strong>MADS</strong> can perform:</p>
+			<ul>
+				<li>Sensitivity Analysis</li>
+				<li>Parameter Estimation</li>
+				<li>Model Inversion and Calibration</li>
+				<li>Uncertainty Quantification</li>
+				<li>Model Selection and Model Averaging</li>
+				<li>Model Reduction and Surrogate Modeling</li>
+				<li>Machine Learning and Blind Source Separation</li>
+				<li>Decision Analysis and Support</li>
+			</ul>
+			<p><strong>MADS</strong> can be internally or externally coupled with any existing model simulator.</p>
+			<p><strong>MADS</strong> includes built-in analytical solutions for groundwater flow and contaminant transport.</p>
+			<p><strong>MADS</strong> includes built-in test functions.</p>
+			<p><strong>MADS</strong> includes verification and example problems.</p>
+			<p><strong>MADS</strong> performs automatic bookkeeping of model results for efficient restarts and reruns.</p>
+			<p><strong>MADS</strong> has been successfully applied to perform analyses related to environmental management.</p>
+			<p><strong>MADS</strong> is released in two compatible versions:</p>
+			<ul>
+				<li><strong>MADS</strong> v1.0 written in Julia (actively developed)</li>
+				<li><strong>MADS</strong> v1.1.14 written in C/C++ (continued support)</li>
+			</ul>
+			<div class="row">
+				<div class="row center">
+					<div class="col s12 m4">
+						<img style="margin-top: 10px;" width=100px src="logos/julia-logo.png" alt="julia">
+					</div>
+					<div class="col s12 m4">
+						<img width=180px src="mads_logos/mads_white_swan_logo_big_text.png" alt="madswan">
+					</div>
+					<div class="col s12 m4">
+						<img width=100px src="logos/cdt_logo_icon.png" alt="c/c++">
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
 </div>
 
 <div id="documentation" class="parallax-container scrollspy pagecontent">
@@ -364,13 +411,13 @@
 					<li>
 						<div class="collapsible-header">Reports</div>
 						<div class="collapsible-body">
-						<div class="left-align" style="padding-left: 30px;">
-							<ul class="browser-default">
-								<li>Fate and Transport Investigations Update for Chromium Contamination from Sandia Canyon, LA-UR-08-4702, 2008. <a href="reports/LA-UR-08-4702-Fate&amp;Trans_Cr_Sandia_Jul08.pdf">PDF</a></li>
-								<li>Pajarito Canyon Investigation Report, LA-UR-08-5852, 2008. <a href="reports/LA-UR-08-5852-Paj_Cyn_IR.pdf">PDF</a></li>
-								<li>Decision analysis for addressing  groundwater contaminants from the radioactive liquid waste treatment facility  released into Mortandad canyon, LA-UR-05-6397, 2005. <a href="reports/LA-UR-05-6397 Decision Analysis-GWContaminants020106.pdf">PDF</a></li>
-							</ul>
-						</div>
+							<div class="left-align" style="padding-left: 30px;">
+								<ul class="browser-default">
+									<li>Fate and Transport Investigations Update for Chromium Contamination from Sandia Canyon, LA-UR-08-4702, 2008. <a href="reports/LA-UR-08-4702-Fate&amp;Trans_Cr_Sandia_Jul08.pdf">PDF</a></li>
+									<li>Pajarito Canyon Investigation Report, LA-UR-08-5852, 2008. <a href="reports/LA-UR-08-5852-Paj_Cyn_IR.pdf">PDF</a></li>
+									<li>Decision analysis for addressing  groundwater contaminants from the radioactive liquid waste treatment facility  released into Mortandad canyon, LA-UR-05-6397, 2005. <a href="reports/LA-UR-05-6397 Decision Analysis-GWContaminants020106.pdf">PDF</a></li>
+								</ul>
+							</div>
 						</div>
 					</div>
 				</li>
@@ -382,7 +429,7 @@
 
 <div id="index-banner" class="parallax-container pagecontent">
 	<div class="section no-pad-bot">
-		<div class="container ">
+		<div id="downloads" class="container">
 			<div class="row center">
 				<h2 class="header orange-text">Downloads</h2>
 			</div>
@@ -425,6 +472,5 @@
 		$('.scrollspy').scrollSpy();
 	});
 </script>
-<script src="js/main-end.js"></script>
 </body>
 </html>
