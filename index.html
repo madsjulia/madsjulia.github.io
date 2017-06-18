@@ -14,94 +14,15 @@
 	<!--  Scripts-->
 	<script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
 	<script src="http://code.jquery.com/jquery-migrate-1.0.0.js"></script>
-	<script src="js/jquery.history.js"></script>
 	<script src="js/materialize.js"></script>
 	<script src="js/init.js"></script>
-</head>
 <body>
-	<!-- Dropdown Structure -->
-	<!--
-	<ul id="DocumentationDD" class="dropdown-content">
-		<li><a href="#!">Overview</a></li>
-		<li><a href="#!">Features</a></li>
-		<li><a href="#!">Methods</a></li>
-		<li><a href="#!">Examples</a></li>
-		<li><a href="#!">Screen shots</a></li>
-		<li><a href="#!">Comparisons</a></li>
-		<li><a href="#mads-manual">Manual</a></li>
-	</ul>
-	<ul id="ResearchDD" class="dropdown-content">
-		<li><a href="#!">Reports</a></li>
-		<li><a href="#!">Publications</a></li>
-		<li><a href="#!">Presentations</a></li>
-		<li><a href="#!">Projects</a></li>
-		<li><a href="#!">Applications</a></li>
-		<li><a href="#!">Developers</a></li>
-	</ul>
--->
+
 <div class="navbar-fixed">
-	<nav class="orange black-text" role="navigation">
+	<nav role="navigation" class="orange black-text" >
 		<div class="nav-wrapper container white-text">
-			<a id="logo-container" href="#" class="brand-logo white-text"><img style="vertical-align: middle;" width=150px src="mads_logos/mads_white_swan_logo_big_text.png" alt="madswan"></a>
+			<a id="logo-container" href="#mads" class="brand-logo white-text"><img style="vertical-align: middle;" width=150px src="mads_logos/mads_white_swan_logo_big_text.png" alt="madswan"></a>
 			<ul class="right hide-on-med-and-down bold">
-					<!--
-					<li><a class="dropdown-button" href="#!" data-activates="DocumentationDD">Documentation</a></li>
-					<li><a class="dropdown-button" href="#!" data-activates="ResearchDD">Theory &amp; Research</a></li>
-				-->
-				<li><a href="#documentation">Documentation</a></li>
-				<li><a href="#research">Research</a></li>
-				<li><a href="#downloads">Downloads</a></li>
-				<li><a href="#contact">Contact</a></li>
-			</ul>
-			<ul id="nav-mobile" class="side-nav bold">
-					<!--
-					<li class="no-padding">
-						<ul class="collapsible collapsible-accordion">
-							<li>
-								<a class="collapsible-header">Manual<i class="mdi-navigation-arrow-drop-down"></i></a>
-								<div class="collapsible-body">
-									<ul>
-										<li><a href="#!">Overview</a></li>
-										<li><a href="#!">Features</a></li>
-										<li><a href="#!">Methods</a></li>
-										<li><a href="#!">Applications</a></li>
-										<li><a href="#!">Examples</a></li>
-										<li><a href="#!">Screen shots</a></li>
-										<li><a href="#!">Comparisons</a></li>
-										<li><a href="#mads-manual">Manual</a></li>
-									</ul>
-								</div>
-							</li>
-						</ul>
-					</li>
-					<li class="no-padding">
-						<ul class="collapsible collapsible-accordion">
-							<li>
-								<a class="collapsible-header">Theory &amp; Research<i class="mdi-navigation-arrow-drop-down"></i></a>
-								<div class="collapsible-body">
-									<ul>
-										<li><a href="#!">Publications</a></li>
-										<li><a href="#!">Presentations</a></li>
-										<li><a href="#!">Projects</a></li>
-										<li><a href="#!">Reports</a></li>
-										<li><a href="#!">Applications</a></li>
-										<li><a href="#!">Developers</a></li>
-									</ul>
-								</div>
-							</li>
-						</ul>
-					</li>
-				-->
-				<li>
-					<div class="userView">
-						<div class="background">
-							<img src="images/dark.jpg"><
-						</div>
-						<a href="#!user"><img src="mads_logos/mads_white_swan_logo.png" width="96"></a>
-						<a href="#!name"><span class="orange-text name">MADS</span></a>
-						<a href="#!email"><span class="orange-text email">mads@lanl.gov</span></a>
-					</div>
-				</li>
 				<li><a href="#documentation">Documentation</a></li>
 				<li><a href="#research">Research</a></li>
 				<li><a href="#downloads">Downloads</a></li>
@@ -112,7 +33,25 @@
 	</nav>
 </div>
 
-<div id="index-banner" class="parallax-container">
+<!-- this is should be outside -->
+	<ul id="nav-mobile" class="side-nav">
+			<li>
+			<div class="userView">
+				<div class="background">
+					<img src="images/dark.jpg">
+				</div>
+				<a href="#mads"><img src="mads_logos/mads_white_swan_logo.png" width="96"></a>
+				<a href="#!name"><span class="orange-text name">MADS</span></a>
+				<a href="#!email"><span class="orange-text email">mads@lanl.gov</span></a>
+			</div>
+		</li>
+		<li><a href="#documentation">Documentation</a></li>
+		<li><a href="#research">Research</a></li>
+		<li><a href="#downloads">Downloads</a></li>
+		<li><a href="#contact">Contact</a></li>
+	</ul>
+
+<div id="mads" class="parallax-container scrollspy">
 	<div class="section no-pad-bot">
 		<div class="container">
 			<div class="row center">
@@ -427,9 +366,9 @@
 </div>
 </div>
 
-<div id="index-banner" class="parallax-container pagecontent">
+<div id="downloads" class="parallax-container pagecontent">
 	<div class="section no-pad-bot">
-		<div id="downloads" class="container">
+		<div class="container">
 			<div class="row center">
 				<h2 class="header orange-text">Downloads</h2>
 			</div>
@@ -466,11 +405,5 @@
 		</div>
 	</div>
 </footer>
-<script>
-	$(document).ready(function(){
-		onload()
-		$('.scrollspy').scrollSpy();
-	});
-</script>
 </body>
 </html>
