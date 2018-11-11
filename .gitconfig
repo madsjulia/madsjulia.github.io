@@ -1,0 +1,19 @@
+[core]
+	repositoryformatversion = 0
+	fileMode = false
+	bare = false
+	logallrefupdates = true
+	ignorecase = true
+	precomposeunicode = true
+[remote "origin"]
+	url = git@gitlab.com:mads/mads.gitlab.io.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[branch "master"]
+	remote = gh2
+	merge = refs/heads/master
+[remote "gh"]
+	url = git@github.com:madsjulia/madsjulia.github.io.git
+	fetch = +refs/heads/*:refs/remotes/gh/*
+[remote "gh2"]
+	url = git@github.com:madsjl/madsjl.github.io.git
+	fetch = +refs/heads/*:refs/remotes/gh2/*
