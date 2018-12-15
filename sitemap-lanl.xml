@@ -1,0 +1,436 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+
+<url>
+  <loc>http://mads.lanl.gov/</loc>
+  <lastmod>2018-12-15T14:40:23+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>http://mads.lanl.gov/papers/Vesselinov%20et%20al%202018%20Unsupervised%20Machine%20Learning%20Based%20on%20Non-Negative%20Tensor%20Factorization%20for%20Analyzing%20Reactive-Mixing.pdf</loc>
+  <lastmod>2018-12-15T14:40:23+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://mads.lanl.gov/papers/Vesselinov%20et%20al%202018%20Nonnegative%20Tensor%20Factorization%20for%20Contaminant%20Source%20Identification.pdf</loc>
+  <lastmod>2018-12-15T14:40:23+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://mads.lanl.gov/papers/Stanev%20et%20al%202018%20Unsupervised%20phase%20mapping%20of%20X-ray%20diffraction%20data%20by%20nonnegative%20matrix%20factorization%20integrated%20with%20custom%20clustering.pdf</loc>
+  <lastmod>2018-12-15T14:40:23+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://mads.lanl.gov/papers/Iliev%20et%20al%202018%20Nonnegative%20Matrix%20Factorization%20for%20identification%20of%20unknown%20number%20of%20sources%20emitting%20delayed%20signals.pdf</loc>
+  <lastmod>2018-12-15T14:40:23+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://mads.lanl.gov/papers/Stanev%20et%20al%202018%20Identification%20of%20release%20sources%20in%20advection-diffusion%20system%20by%20machine%20learning%20combined%20with%20Green's%20function%20inverse%20method.pdf</loc>
+  <lastmod>2018-12-15T14:40:23+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://mads.lanl.gov/papers/Qian%20et%20al%202018%20Multifidelity%20Monte%20Carlo%20Estimation%20of%20Variance%20and%20Sensitivity%20Indices.pdf</loc>
+  <lastmod>2018-12-15T14:40:23+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://mads.lanl.gov/papers/Lu%20et%20al%202018%20Identifying%20arbitrary%20parameter%20zonation%20using%20multiple%20level%20set%20functions.pdf</loc>
+  <lastmod>2018-12-15T14:40:23+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://mads.lanl.gov/papers/Hansen%20et%20al%202018%20Characterizing%20the%20impact%20of%20model%20error%20in%20hydrologic%20time%20series%20recovery%20inverse%20problems.pdf</loc>
+  <lastmod>2018-12-15T14:40:23+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://mads.lanl.gov/papers/Lin%20et%20al%202018%20Randomization%20in%20Characterizing%20the%20Subsurface.pdf</loc>
+  <lastmod>2018-12-15T14:40:23+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://mads.lanl.gov/papers/Hansen%20et%20al%202018%20Direct%20Breakthrough%20Curve%20Prediction%20from%20Statistics%20of%20Heterogeneous%20Conductivity%20Fields.pdf</loc>
+  <lastmod>2018-12-15T14:40:23+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://mads.lanl.gov/papers/Vesselinov%202017%20Contaminant%20source%20identification%20using%20semi-supervised%20machine%20learning.pdf</loc>
+  <lastmod>2018-12-15T14:40:23+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://mads.lanl.gov/papers/Lin%20et%20al%202017%20Large-Scale%20Inverse%20Model%20Analyses%20Employing%20Fast%20Randomized%20Data%20Reduction.pdf</loc>
+  <lastmod>2018-12-15T14:40:23+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://mads.lanl.gov/papers/Hansen%20et%20al%202018%20Local%20Equilibrium%20and%20Retardation%20Revisited.pdf</loc>
+  <lastmod>2018-12-15T14:40:23+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://mads.lanl.gov/papers/Hansen%20et%20al%202017%20Inferring%20subsurface%20heterogeneity%20from%20push-drift%20tracer%20tests.pdf</loc>
+  <lastmod>2018-12-15T14:40:23+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://mads.lanl.gov/papers/Bakarji%20et%20al%202017%20Agent-Based%20Socio-Hydrological%20Hybrid%20Modeling%20for%20Water%20Resource%20Management.pdf</loc>
+  <lastmod>2018-12-15T14:40:23+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://mads.lanl.gov/papers/Zhang%20et%20al%202018%20Two-Stage%20Fracturing%20Wastewater%20Management%20in%20Shale%20Gas%20Development.pdf</loc>
+  <lastmod>2018-12-15T14:40:23+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://mads.lanl.gov/papers/Zhang%20Vesselinov%20Integrated%20Modeling%20Approach%20for%20Optimal%20Management%20of%20Water,%20Energy%20and%20Food%20Security%20Nexus%202017.pdf</loc>
+  <lastmod>2018-12-15T14:40:23+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://mads.lanl.gov/papers/O'Malley%20Vesselinov%20ToQ.jl%20A%20high-level%20programming%20language%20for%20D-Wave%20machines%20based%20on%20Julia%202016.pdf</loc>
+  <lastmod>2018-12-15T14:40:23+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://mads.lanl.gov/papers/Lin%20O'Malley%20Vesselinov%20A%20computationally%20efficient%20parallel%20Levenberg-Marquardt%20algorithm%20for%20highly%20parameterized%20inverse%20model%20analyses%202016.pdf</loc>
+  <lastmod>2018-12-15T14:40:23+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://mads.lanl.gov/papers/Hansen%20et%20al%20Push-pull%20tracer%20tests%20their%20information%20content%20and%20use%20for%20characterizing%20non-Fickian,%20mobile-immobile%20behavior%202016.pdf</loc>
+  <lastmod>2018-12-15T14:40:23+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://mads.lanl.gov/papers/Zhang%20Vesselinov%20Energy-Water%20Nexus%20Balancing%20the%20Tradeoffs%20between%20Two-Level%20Decision%20Makers%20Applied%20Energy%202016.pdf</loc>
+  <lastmod>2018-12-15T14:40:23+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://mads.lanl.gov/papers/Hansen%20Vesselinov%20Contaminant%20point%20source%20localization%20error%20estimates%20as%20functions%20of%20data%20quantity%20and%20model%20quality%202016.pdf</loc>
+  <lastmod>2018-12-15T14:40:23+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://mads.lanl.gov/papers/Throckmorton%20et%20al%202016%20Active%20layer%20hydrology%20in%20an%20arctic%20tundra%20ecosystem%20quantifying%20water%20source%20%20and%20cycling%20using%20water%20stable%20isotopes.pdf</loc>
+  <lastmod>2018-12-15T14:40:23+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://mads.lanl.gov/papers/Grasinger%20et%20al%202016%20Decision%20analysis%20for%20robust%20CO2%20injection:%20Application%20of%20Bayesian-Information-Gap%20Decision%20Theory.pdf</loc>
+  <lastmod>2018-12-15T14:40:23+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://mads.lanl.gov/papers/Mattis%20et%20al%202015%20Parameter%20estimation%20and%20prediction%20for%20groundwatercontamination%20based%20on%20measure%20theory.pdf</loc>
+  <lastmod>2018-12-15T14:40:23+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://mads.lanl.gov/papers/OMalley%20Vesselinov%202015%20Bayesian%20information%20gap%20decision%20theory%20with%20an%20application%20to%20CO2%20sequestration.pdf</loc>
+  <lastmod>2018-12-15T14:40:23+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://mads.lanl.gov/papers/Lu%20Vesselinov%202015%20Analytical%20sensitivity%20analysis%20of%20transient%20groundwater%20flow%20in%20a%20bounded%20model%20domain%20using%20the%20adjoint%20method.pdf</loc>
+  <lastmod>2018-12-15T14:40:23+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://mads.lanl.gov/papers/Barajas%20et%20al%202015%20Linear%20functional%20minimization%20for%20inverse%20modeling.pdf</loc>
+  <lastmod>2018-12-15T14:40:23+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://mads.lanl.gov/papers/OMalley%20Vesselinov%20Cushman%202015%20Diffusive%20mixing%20and%20Tsallis%20entropy.pdf</loc>
+  <lastmod>2018-12-15T14:40:23+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://mads.lanl.gov/papers/OMalley%20Vesselinov%202014%20A%20Combined%20Probabilistic%20Nonprobabilistic%20Decision%20Analysis%20for%20Contaminant%20Remediation.pdf</loc>
+  <lastmod>2018-12-15T14:40:23+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://mads.lanl.gov/papers/OMalley%20Vesselinov%20Cushman%202014%20A%20Method%20for%20Identifying%20Diffusive%20Trajectories%20with%20Stochastic%20Models.pdf</loc>
+  <lastmod>2018-12-15T14:40:23+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://mads.lanl.gov/papers/Alexandrov%20&amp;%20Vesselinov%202014%20Blind%20source%20separation%20for%20groundwater%20pressure%20analysis%20based%20on%20nonnegative%20matrix%20factorization.pdf</loc>
+  <lastmod>2018-12-15T14:40:23+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://mads.lanl.gov/papers/OMalley%20Vesselinov%202014%20Analytical%20solutions%20for%20anomalous%20dispersion%20transport.pdf</loc>
+  <lastmod>2018-12-15T14:40:23+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://mads.lanl.gov/papers/Freedman%20et%20al%202014%20A%20high-performance%20workflow%20system%20for%20subsurface%20simulation.pdf</loc>
+  <lastmod>2018-12-15T14:40:23+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://mads.lanl.gov/papers/OMalley%20Vesselinov%202014%20Groundwater%20remediation%20using%20the%20information%20gap%20decision%20theory.pdf</loc>
+  <lastmod>2018-12-15T14:40:23+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://mads.lanl.gov/papers/Harp%20&amp;%20Vesselinov%202013%20exp.pdf</loc>
+  <lastmod>2018-12-15T14:40:23+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://mads.lanl.gov/papers/Vesselinov%20et%20al%202013%20Data%20and%20Model-Driven%20Decision%20Support%20for%20Environmental%20Management%20of%20a%20Chromium%20Plume%20at%20Los%20Alamos%20National%20Laboratory.pdf</loc>
+  <lastmod>2018-12-15T14:40:23+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://mads.lanl.gov/papers/Vesselinov%20et%20al%202012%20Agni%20-%20coupling%20model%20analysis%20tools%20and%20high-performance%20subsurface%20flow%20and%20transport%20simulators%20for%20risk%20and%20performance%20assessments.pdf</loc>
+  <lastmod>2018-12-15T14:40:23+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://mads.lanl.gov/papers/Vesselinov%20&amp;%20Harp%202012%20Adaptive%20hybrid%20optimization%20strategy%20for%20calibration%20and%20parameter%20estimation%20of%20physical%20process%20models.pdf</loc>
+  <lastmod>2018-12-15T14:40:23+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://mads.lanl.gov/papers/Harp%20&amp;%20Vesselinov%202013%20Contaminant%20remediation%20decision%20analysis%20using%20information.pdf</loc>
+  <lastmod>2018-12-15T14:40:23+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://mads.lanl.gov/papers/Mishra%20et%20al%202012%20Variable%20Rate%20GW.pdf</loc>
+  <lastmod>2018-12-15T14:40:23+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://mads.lanl.gov/papers/Mishra%20et%20al%202012%20Leaky-unconfined%20aquifer%20AWR.pdf</loc>
+  <lastmod>2018-12-15T14:40:23+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://mads.lanl.gov/papers/Harp%20&amp;%20Vesselinov%202012%20abagus.pdf</loc>
+  <lastmod>2018-12-15T14:40:23+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://mads.lanl.gov/papers/Harp%20&amp;%20Vesselinov%202012%20geosampler.pdf</loc>
+  <lastmod>2018-12-15T14:40:23+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://mads.lanl.gov/papers/Mishra%20&amp;%20Vesselinov%202011%20Unified%20Analytical%20Solution%20for%20Radial%20Flow%20to%20a%20Well%20in%20a%20Confined%20Aquifer.pdf</loc>
+  <lastmod>2018-12-15T14:40:23+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://mads.lanl.gov/papers/Vesselinov%20&amp;%20Harp%202010%20cmwr%20decision.pdf</loc>
+  <lastmod>2018-12-15T14:40:23+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://mads.lanl.gov/papers/Harp%20&amp;%20Vesselinov%202010%20gw.pdf</loc>
+  <lastmod>2018-12-15T14:40:23+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://mads.lanl.gov/papers/Morales%20et%20al%202010%20MLBA%20serra.pdf</loc>
+  <lastmod>2018-12-15T14:40:23+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://mads.lanl.gov/papers/Harp%20&amp;%20Vesselinov%202010%20SERRA.pdf</loc>
+  <lastmod>2018-12-15T14:40:23+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://mads.lanl.gov/papers/Vrugt%20et%20al%202007%20VZJ.pdf</loc>
+  <lastmod>2018-12-15T14:40:23+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://mads.lanl.gov/papers/Morales_et_al_on_ALRS.pdf</loc>
+  <lastmod>2018-12-15T14:40:23+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://mads.lanl.gov/papers/Harp%20et%20al%202008%20GRL.pdf</loc>
+  <lastmod>2018-12-15T14:40:23+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://mads.lanl.gov/papers/Vesselinov%202006%20cmwr06%20Uncertainties%20In%20Transient%20Capture-Zone%20Estimates.pdf</loc>
+  <lastmod>2018-12-15T14:40:23+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://mads.lanl.gov/papers/Vrugt%20et%20al%202005%20GRL.pdf</loc>
+  <lastmod>2018-12-15T14:40:23+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://mads.lanl.gov/papers/Vesselinov%202004%20Estimation%20of%20parameter%20uncertainty%20using%20inverse%20model%20sensitivities.pdf</loc>
+  <lastmod>2018-12-15T14:40:23+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://mads.lanl.gov/presentations/Vesselinov%202018%20Novel%20Machine%20Learning%20Methods%20for%20Extraction%20of%20Features%20Characterizing%20Datasets%20and%20Models%20LA-UR-18-31366.pdf</loc>
+  <lastmod>2018-12-15T14:40:23+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://mads.lanl.gov/presentations/Vesselinov%202018%20Novel%20Machine%20Learning%20Methods%20for%20Extraction%20of%20Features%20Characterizing%20Complex%20Datasets%20and%20Models%20LA-UR-18-30987.pdf</loc>
+  <lastmod>2018-12-15T14:40:23+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://mads.lanl.gov/presentations/OMalley%20et%20al%202017%20Nonnegative%20binary%20matrix%20factorization%20with%20a%20D-Wave%20quantum%20annealer.pdf</loc>
+  <lastmod>2018-12-15T14:40:23+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://mads.lanl.gov/presentations/lin%20Hydraulic%20Inverse%20Modeling%20TV%20SIAM%20CSE%202017.pdf</loc>
+  <lastmod>2018-12-15T14:40:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://mads.lanl.gov/presentations/vesselinov%20Decision%20Analyses%20for%20Groundwater%20Remediation%20LA-UR-17-21909%20wmsym2017.pdf</loc>
+  <lastmod>2018-12-15T14:40:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://mads.lanl.gov/presentations/vesselinov%20omalley%20MADS%20LA-UR-16-29120%20agu2016.pdf</loc>
+  <lastmod>2018-12-15T14:40:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://mads.lanl.gov/presentations/vesselinov%20omalley%20Reduced%20Order%20Models%20for%20Decision%20Analysis%20and%20Upscaling%20of%20Aquifer%20Heterogeneity%20AGU%202016.pdf</loc>
+  <lastmod>2018-12-15T14:40:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://mads.lanl.gov/presentations/hansen%20et%20al%20Analysis%20of%20Hydrologic%20Time%20Series%20Reconstruction%20Uncertainty%20due%20to%20Inverse%20Model%20Inadequacy%20AGU%202016.pdf</loc>
+  <lastmod>2018-12-15T14:40:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://mads.lanl.gov/presentations/zhiming%20et%20al%20Identifying%20Aquifer%20Heterogeneities%20using%20the%20Level%20Set%20Method%20AGU%202016.pdf</loc>
+  <lastmod>2018-12-15T14:40:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://mads.lanl.gov/presentations/hansen%20et%20al%20Prediction%20of%20Breakthrough%20Curves%20for%20Conservative%20and%20Reactive%20Transport%20AGU%202016.pdf</loc>
+  <lastmod>2018-12-15T14:40:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://mads.lanl.gov/presentations/zhang%20vesselinov%20Bi-Level%20Decision%20Making%20for%20Supporting%20Energy%20and%20Water%20Nexus%20AGU%202016.pdf</loc>
+  <lastmod>2018-12-15T14:40:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://mads.lanl.gov/presentations/lin%20et%20al%20Hydraulic%20Inverse%20Modeling%20TV%20AGU%202016.pdf</loc>
+  <lastmod>2018-12-15T14:40:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://mads.lanl.gov/presentations/vesselinov%20ZEM%20LA-UR-16-21469%20wmsym2016.pdf</loc>
+  <lastmod>2018-12-15T14:40:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://mads.lanl.gov/presentations/vesselinov%20wmsym2015_LANL_Cr_BIGDT_LA-UR-15-21965.pdf</loc>
+  <lastmod>2018-12-15T14:40:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://mads.lanl.gov/presentations/omalley_biguq_LAUR_14-28376.pdf</loc>
+  <lastmod>2018-12-15T14:40:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://mads.lanl.gov/presentations/omalley_tsallisentropy_LAUR_14-29018.pdf</loc>
+  <lastmod>2018-12-15T14:40:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://mads.lanl.gov/presentations/bakarji_socialdynamics_LAUR_14-24002.pdf</loc>
+  <lastmod>2018-12-15T14:40:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://mads.lanl.gov/presentations/vesselinov%20bss-agu2014-LA-UR-14-29163.pdf</loc>
+  <lastmod>2018-12-15T14:40:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://mads.lanl.gov/presentations/wmsym20130304splitanimations-LA-UR-13-21534.pdf</loc>
+  <lastmod>2018-12-15T14:40:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://mads.lanl.gov/presentations/agu20121209mads_ascem_big_splitted.pdf</loc>
+  <lastmod>2018-12-15T14:40:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://mads.lanl.gov/presentations/LA-UR-12-22187%20agni%20cmwr%2020120614.pdf</loc>
+  <lastmod>2018-12-15T14:40:23+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://mads.lanl.gov/presentations/Leif_LM_presentation_m.pdf</loc>
+  <lastmod>2018-12-15T14:40:23+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://mads.lanl.gov/presentations/dharp_bb_2011_01.pdf</loc>
+  <lastmod>2018-12-15T14:40:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://mads.lanl.gov/presentations/LANL%20EM%20Modeling%2020100413.pdf</loc>
+  <lastmod>2018-12-15T14:40:23+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://mads.lanl.gov/presentations/vesselinov%20LA-UR-08-0655%20agu08%20hydro%20tomography%2020090203.pdf</loc>
+  <lastmod>2018-12-15T14:40:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://mads.lanl.gov/presentations/vesselinov%20LA-UR-06-2305%20cmwr06%20transeint%20capture%20zone%20060622.pdf</loc>
+  <lastmod>2018-12-15T14:40:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://mads.lanl.gov/reports/LA-UR-08-4702-Fate&amp;Trans_Cr_Sandia_Jul08.pdf</loc>
+  <lastmod>2018-12-15T14:40:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://mads.lanl.gov/reports/LA-UR-08-5852-Paj_Cyn_IR.pdf</loc>
+  <lastmod>2018-12-15T14:40:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://mads.lanl.gov/reports/LA-UR-05-6397%20Decision%20Analysis-GWContaminants020106.pdf</loc>
+  <lastmod>2018-12-15T14:40:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+
+
+</urlset>
