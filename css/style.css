@@ -89,3 +89,7 @@ h5 {
 footer.page-footer {
   margin: 0;
 }
+
+ul.browser-default li {
+  list-style-type: initial;
+}
