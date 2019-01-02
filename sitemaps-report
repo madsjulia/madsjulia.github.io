@@ -1,0 +1,4 @@
+docker run -it python-sitemap --domain http://mads.lanl.gov --report
+docker run -it python-sitemap --domain http://mads.gitlab.io --report
+docker run -it python-sitemap --domain http://madsjulia.github.io --report
+
