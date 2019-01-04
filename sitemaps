@@ -1,4 +1,4 @@
-docker run -it python-sitemap --domain http://mads.lanl.gov > sitemap-lanl.xml
-docker run -it python-sitemap --domain http://mads.gitlab.io > sitemap-gitlab.xml
-docker run -it python-sitemap --domain http://madsjulia.github.io > sitemap-github.xml
+docker run -it python-sitemap --domain http://mads.lanl.gov --images > sitemap-lanl.xml
+docker run -it python-sitemap --domain http://mads.gitlab.io --images > sitemap-gitlab.xml
+docker run -it python-sitemap --domain http://madsjulia.github.io --images > sitemap-github.xml
 sed -e "s/http:\/\/mads.gitlab.io/http:\/\/mads.lanl.gov/" sitemap-gitlab.xml > sitemap-lanl-generated.xml
