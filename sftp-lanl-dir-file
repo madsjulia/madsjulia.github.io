@@ -2,7 +2,7 @@ sftp vvv@publish.lanl.gov << EOF
 cd /www/dev-green/docs/projects/mads/$1
 lcd /Users/monty/www-mads/$1
 put "$2" "$2"
-chmod 655 "$2"
+chmod 644 "$2"
 bye
 EOF
 echo Done.
