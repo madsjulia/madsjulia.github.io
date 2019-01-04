@@ -6,92 +6,92 @@
       xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 
-<url><loc>http://mads.lanl.gov</loc><lastmod>2019-01-04T17:25:50+00:00</lastmod><image:image><image:loc>http://mads.lanl.gov/images/dark.jpg</image:loc></image:image><image:image><image:loc>http://mads.lanl.gov/logos/julia-logo.png</image:loc></image:image><image:image><image:loc>http://mads.lanl.gov/mads_logos/mads_white_swan_logo.png</image:loc></image:image><image:image><image:loc>http://mads.lanl.gov/mads_logos/mads_white_swan_logo_big_text.png</image:loc></image:image><image:image><image:loc>http://mads.lanl.gov/logos/cdt_logo_icon.png</image:loc></image:image></url>
-<url><loc>http://mads.lanl.gov/papers/Lin OMalley Vesselinov A computationally efficient parallel Levenberg-Marquardt algorithm for highly parameterized inverse model analyses 2016.pdf</loc></url>
-<url><loc>http://mads.lanl.gov/papers/Hansen et al 2017 Inferring subsurface heterogeneity from push-drift tracer tests.pdf</loc></url>
-<url><loc>http://mads.lanl.gov/presentations/vesselinov LA-UR-08-0655 agu08 hydro tomography 20090203.pdf</loc></url>
-<url><loc>http://mads.lanl.gov/papers/Throckmorton et al 2016 Active layer hydrology in an arctic tundra ecosystem quantifying water source  and cycling using water stable isotopes.pdf</loc></url>
-<url><loc>http://mads.lanl.gov/presentations/LA-UR-12-22187 agni cmwr 20120614.pdf</loc></url>
-<url><loc>http://mads.lanl.gov/presentations/zhiming et al Identifying Aquifer Heterogeneities using the Level Set Method AGU 2016.pdf</loc></url>
-<url><loc>http://mads.lanl.gov/papers/Vesselinov 2006 cmwr06 Uncertainties In Transient Capture-Zone Estimates.pdf</loc></url>
-<url><loc>http://mads.lanl.gov/papers/Harp &amp; Vesselinov 2013 Contaminant remediation decision analysis using information.pdf</loc></url>
-<url><loc>http://mads.lanl.gov/presentations/Vesselinov 2018 Novel Machine Learning Methods for Extraction of Features Characterizing Complex Datasets and Models LA-UR-18-30987.pdf</loc></url>
-<url><loc>http://mads.lanl.gov/papers/Hansen et al 2018 Characterizing the impact of model error in hydrologic time series recovery inverse problems.pdf</loc></url>
-<url><loc>http://mads.lanl.gov/presentations/vesselinov ZEM LA-UR-16-21469 wmsym2016.pdf</loc></url>
-<url><loc>http://mads.lanl.gov/papers/Zhang et al 2018 Two-Stage Fracturing Wastewater Management in Shale Gas Development.pdf</loc></url>
-<url><loc>http://mads.lanl.gov/papers/Freedman et al 2014 A high-performance workflow system for subsurface simulation.pdf</loc></url>
-<url><loc>http://mads.lanl.gov/papers/Vesselinov &amp; Harp 2012 Adaptive hybrid optimization strategy for calibration and parameter estimation of physical process models.pdf</loc></url>
-<url><loc>http://mads.lanl.gov/papers/Hansen Vesselinov Contaminant point source localization error estimates as functions of data quantity and model quality 2016.pdf</loc></url>
-<url><loc>http://mads.lanl.gov/papers/Harp &amp; Vesselinov 2012 geosampler.pdf</loc></url>
-<url><loc>http://mads.lanl.gov/presentations/bakarji_socialdynamics_LAUR_14-24002.pdf</loc></url>
-<url><loc>http://mads.lanl.gov/presentations/omalley_biguq_LAUR_14-28376.pdf</loc></url>
-<url><loc>http://mads.lanl.gov/papers/Vesselinov et al 2013 Data and Model-Driven Decision Support for Environmental Management of a Chromium Plume at Los Alamos National Laboratory.pdf</loc></url>
-<url><loc>http://mads.lanl.gov/papers/Iliev et al 2018 Nonnegative Matrix Factorization for identification of unknown number of sources emitting delayed signals.pdf</loc></url>
-<url><loc>http://mads.lanl.gov/papers/Lin et al 2017 Large-Scale Inverse Model Analyses Employing Fast Randomized Data Reduction.pdf</loc></url>
-<url><loc>http://mads.lanl.gov/presentations/vesselinov omalley MADS LA-UR-16-29120 agu2016.pdf</loc></url>
-<url><loc>http://mads.lanl.gov/presentations/Leif_LM_presentation_m.pdf</loc></url>
-<url><loc>http://mads.lanl.gov/papers/OMalley Vesselinov 2015 Bayesian information gap decision theory with an application to CO2 sequestration.pdf</loc></url>
-<url><loc>http://mads.lanl.gov/papers/Zhang Vesselinov Energy-Water Nexus Balancing the Tradeoffs between Two-Level Decision Makers Applied Energy 2016.pdf</loc></url>
-<url><loc>http://mads.lanl.gov/papers/Vesselinov 2004 Estimation of parameter uncertainty using inverse model sensitivities.pdf</loc></url>
-<url><loc>http://mads.lanl.gov/papers/Alexandrov &amp; Vesselinov 2014 Blind source separation for groundwater pressure analysis based on nonnegative matrix factorization.pdf</loc></url>
-<url><loc>http://mads.lanl.gov/papers/Stanev et al 2018 Identification of release sources in advection-diffusion system by machine learning combined with Greens function inverse method.pdf</loc></url>
-<url><loc>http://mads.lanl.gov/papers/OMalley Vesselinov ToQ.jl A high-level programming language for D-Wave machines based on Julia 2016.pdf</loc></url>
-<url><loc>http://mads.lanl.gov/papers/Lu et al 2018 Identifying arbitrary parameter zonation using multiple level set functions.pdf</loc></url>
-<url><loc>http://mads.lanl.gov/presentations/vesselinov wmsym2015_LANL_Cr_BIGDT_LA-UR-15-21965.pdf</loc></url>
-<url><loc>http://mads.lanl.gov/papers/Mishra &amp; Vesselinov 2011 Unified Analytical Solution for Radial Flow to a Well in a Confined Aquifer.pdf</loc></url>
-<url><loc>http://mads.lanl.gov/presentations/lin et al Hydraulic Inverse Modeling TV AGU 2016.pdf</loc></url>
-<url><loc>http://mads.lanl.gov/presentations/lin Hydraulic Inverse Modeling TV SIAM CSE 2017.pdf</loc></url>
-<url><loc>http://mads.lanl.gov/reports/LA-UR-08-4702-Fate&amp;Trans_Cr_Sandia_Jul08.pdf</loc></url>
-<url><loc>http://mads.lanl.gov/presentations/vesselinov Decision Analyses for Groundwater Remediation LA-UR-17-21909 wmsym2017.pdf</loc></url>
-<url><loc>http://mads.lanl.gov/papers/Vrugt et al 2007 VZJ.pdf</loc></url>
-<url><loc>http://mads.lanl.gov/papers/Morales et al 2010 MLBA serra.pdf</loc></url>
-<url><loc>http://mads.lanl.gov/papers/Harp et al 2008 GRL.pdf</loc></url>
-<url><loc>http://mads.lanl.gov/presentations/vesselinov bss-agu2014-LA-UR-14-29163.pdf</loc></url>
-<url><loc>http://mads.lanl.gov/presentations/omalley_tsallisentropy_LAUR_14-29018.pdf</loc></url>
-<url><loc>http://mads.lanl.gov/papers/Hansen et al 2018 Direct Breakthrough Curve Prediction from Statistics of Heterogeneous Conductivity Fields.pdf</loc></url>
-<url><loc>http://mads.lanl.gov/papers/Morales_et_al_on_ALRS.pdf</loc></url>
-<url><loc>http://mads.lanl.gov/presentations/OMalley et al 2017 Nonnegative binary matrix factorization with a D-Wave quantum annealer.pdf</loc></url>
-<url><loc>http://mads.lanl.gov/papers/OMalley Vesselinov Cushman 2014 A Method for Identifying Diffusive Trajectories with Stochastic Models.pdf</loc></url>
+<url><loc>http://mads.lanl.gov</loc><lastmod>2019-01-04T17:25:50+00:00</lastmod><image:image><image:loc>http://mads.lanl.gov/mads_logos/mads_white_swan_logo_big_text.png</image:loc></image:image><image:image><image:loc>http://mads.lanl.gov/mads_logos/mads_white_swan_logo.png</image:loc></image:image><image:image><image:loc>http://mads.lanl.gov/images/dark.jpg</image:loc></image:image><image:image><image:loc>http://mads.lanl.gov/logos/cdt_logo_icon.png</image:loc></image:image><image:image><image:loc>http://mads.lanl.gov/logos/julia-logo.png</image:loc></image:image></url>
+<url><loc>http://mads.lanl.gov/papers/Lu Vesselinov 2015 Analytical sensitivity analysis of transient groundwater flow in a bounded model domain using the adjoint method.pdf</loc></url>
+<url><loc>http://mads.lanl.gov/reports/LA-UR-05-6397 Decision Analysis-GWContaminants020106.pdf</loc></url>
+<url><loc>http://mads.lanl.gov/papers/Qian et al 2018 Multifidelity Monte Carlo Estimation of Variance and Sensitivity Indices.pdf</loc></url>
 <url><loc>http://mads.lanl.gov/papers/Mishra et al 2012 Leaky-unconfined aquifer AWR.pdf</loc></url>
-<url><loc>http://mads.lanl.gov/papers/Harp &amp; Vesselinov 2010 SERRA.pdf</loc></url>
-<url><loc>http://mads.lanl.gov/papers/OMalley Vesselinov 2014 Analytical solutions for anomalous dispersion transport.pdf</loc></url>
+<url><loc>http://mads.lanl.gov/presentations/hansen et al Analysis of Hydrologic Time Series Reconstruction Uncertainty due to Inverse Model Inadequacy AGU 2016.pdf</loc></url>
+<url><loc>http://mads.lanl.gov/papers/Mishra &amp; Vesselinov 2011 Unified Analytical Solution for Radial Flow to a Well in a Confined Aquifer.pdf</loc></url>
+<url><loc>http://mads.lanl.gov/presentations/vesselinov omalley Reduced Order Models for Decision Analysis and Upscaling of Aquifer Heterogeneity AGU 2016.pdf</loc></url>
+<url><loc>http://mads.lanl.gov/presentations/zhang vesselinov Bi-Level Decision Making for Supporting Energy and Water Nexus AGU 2016.pdf</loc></url>
+<url><loc>http://mads.lanl.gov/papers/Lin OMalley Vesselinov A computationally efficient parallel Levenberg-Marquardt algorithm for highly parameterized inverse model analyses 2016.pdf</loc></url>
+<url><loc>http://mads.lanl.gov/papers/Hansen et al 2018 Local Equilibrium and Retardation Revisited.pdf</loc></url>
+<url><loc>http://mads.lanl.gov/papers/Hansen et al 2018 Direct Breakthrough Curve Prediction from Statistics of Heterogeneous Conductivity Fields.pdf</loc></url>
+<url><loc>http://mads.lanl.gov/papers/OMalley Vesselinov 2014 Groundwater remediation using the information gap decision theory.pdf</loc></url>
+<url><loc>http://mads.lanl.gov/presentations/bakarji_socialdynamics_LAUR_14-24002.pdf</loc></url>
+<url><loc>http://mads.lanl.gov/papers/Stanev et al 2018 Identification of release sources in advection-diffusion system by machine learning combined with Greens function inverse method.pdf</loc></url>
+<url><loc>http://mads.lanl.gov/papers/Vesselinov et al 2012 Agni - coupling model analysis tools and high-performance subsurface flow and transport simulators for risk and performance assessments.pdf</loc></url>
 <url><loc>http://mads.lanl.gov/papers/Telfeyan et al 2018 Long-term stability of dithionite in alkaline anaerobic aqueous solution.pdf</loc></url>
 <url><loc>http://mads.lanl.gov/papers/OMalley Vesselinov Cushman 2015 Diffusive mixing and Tsallis entropy.pdf</loc></url>
-<url><loc>http://mads.lanl.gov/presentations/agu20121209mads_ascem_big_splitted.pdf</loc></url>
-<url><loc>http://mads.lanl.gov/papers/Lu Vesselinov 2015 Analytical sensitivity analysis of transient groundwater flow in a bounded model domain using the adjoint method.pdf</loc></url>
-<url><loc>http://mads.lanl.gov/papers/Qian et al 2018 Multifidelity Monte Carlo Estimation of Variance and Sensitivity Indices.pdf</loc></url>
-<url><loc>http://mads.lanl.gov/papers/Hansen et al Push-pull tracer tests their information content and use for characterizing non-Fickian, mobile-immobile behavior 2016.pdf</loc></url>
+<url><loc>http://mads.lanl.gov/papers/Harp &amp; Vesselinov 2012 geosampler.pdf</loc></url>
+<url><loc>http://mads.lanl.gov/papers/Morales_et_al_on_ALRS.pdf</loc></url>
+<url><loc>http://mads.lanl.gov/presentations/vesselinov wmsym2015_LANL_Cr_BIGDT_LA-UR-15-21965.pdf</loc></url>
 <url><loc>http://mads.lanl.gov/papers/Lin et al 2018 Randomization in Characterizing the Subsurface.pdf</loc></url>
-<url><loc>http://mads.lanl.gov/papers/Vesselinov et al 2012 Agni - coupling model analysis tools and high-performance subsurface flow and transport simulators for risk and performance assessments.pdf</loc></url>
-<url><loc>http://mads.lanl.gov/papers/OMalley Vesselinov 2014 Groundwater remediation using the information gap decision theory.pdf</loc></url>
-<url><loc>http://mads.lanl.gov/presentations/dharp_bb_2011_01.pdf</loc></url>
-<url><loc>http://mads.lanl.gov/papers/Vesselinov et al 2018 Unsupervised Machine Learning Based on Non-Negative Tensor Factorization for Analyzing Reactive-Mixing.pdf</loc></url>
+<url><loc>http://mads.lanl.gov/presentations/vesselinov ZEM LA-UR-16-21469 wmsym2016.pdf</loc></url>
+<url><loc>http://mads.lanl.gov/presentations/wmsym20130304splitanimations-LA-UR-13-21534.pdf</loc></url>
+<url><loc>http://mads.lanl.gov/papers/Mattis et al 2015 Parameter estimation and prediction for groundwatercontamination based on measure theory.pdf</loc></url>
+<url><loc>http://mads.lanl.gov/papers/Vesselinov &amp; Harp 2010 cmwr decision.pdf</loc></url>
 <url><loc>http://mads.lanl.gov/papers/Hansen et al 2017 CHROTRAN 1.0 A mathematical and computational model for in situ heavy metal remediation in heterogeneous aquifers.pdf</loc></url>
-<url><loc>http://mads.lanl.gov/presentations/vesselinov omalley Reduced Order Models for Decision Analysis and Upscaling of Aquifer Heterogeneity AGU 2016.pdf</loc></url>
-<url><loc>http://mads.lanl.gov/presentations/vesselinov LA-UR-06-2305 cmwr06 transeint capture zone 060622.pdf</loc></url>
-<url><loc>http://mads.lanl.gov/papers/Barajas et al 2015 Linear functional minimization for inverse modeling.pdf</loc></url>
+<url><loc>http://mads.lanl.gov/papers/Zhang Vesselinov Energy-Water Nexus Balancing the Tradeoffs between Two-Level Decision Makers Applied Energy 2016.pdf</loc></url>
+<url><loc>http://mads.lanl.gov/papers/Lin et al 2017 Large-Scale Inverse Model Analyses Employing Fast Randomized Data Reduction.pdf</loc></url>
+<url><loc>http://mads.lanl.gov/presentations/vesselinov LA-UR-08-0655 agu08 hydro tomography 20090203.pdf</loc></url>
+<url><loc>http://mads.lanl.gov/papers/Vesselinov et al 2013 Data and Model-Driven Decision Support for Environmental Management of a Chromium Plume at Los Alamos National Laboratory.pdf</loc></url>
 <url><loc>http://mads.lanl.gov/presentations/LANL EM Modeling 20100413.pdf</loc></url>
+<url><loc>http://mads.lanl.gov/presentations/hansen et al Prediction of Breakthrough Curves for Conservative and Reactive Transport AGU 2016.pdf</loc></url>
+<url><loc>http://mads.lanl.gov/presentations/vesselinov bss-agu2014-LA-UR-14-29163.pdf</loc></url>
+<url><loc>http://mads.lanl.gov/papers/Vesselinov 2017 Contaminant source identification using semi-supervised machine learning.pdf</loc></url>
+<url><loc>http://mads.lanl.gov/papers/Grasinger et al 2016 Decision analysis for robust CO2 injection: Application of Bayesian-Information-Gap Decision Theory.pdf</loc></url>
+<url><loc>http://mads.lanl.gov/papers/OMalley Vesselinov 2014 A Combined Probabilistic Nonprobabilistic Decision Analysis for Contaminant Remediation.pdf</loc></url>
+<url><loc>http://mads.lanl.gov/papers/Hansen et al 2018 Characterizing the impact of model error in hydrologic time series recovery inverse problems.pdf</loc></url>
+<url><loc>http://mads.lanl.gov/papers/OMalley Vesselinov 2015 Bayesian information gap decision theory with an application to CO2 sequestration.pdf</loc></url>
+<url><loc>http://mads.lanl.gov/presentations/zhiming et al Identifying Aquifer Heterogeneities using the Level Set Method AGU 2016.pdf</loc></url>
+<url><loc>http://mads.lanl.gov/papers/Vesselinov &amp; Harp 2012 Adaptive hybrid optimization strategy for calibration and parameter estimation of physical process models.pdf</loc></url>
+<url><loc>http://mads.lanl.gov/presentations/dharp_bb_2011_01.pdf</loc></url>
+<url><loc>http://mads.lanl.gov/papers/Zhang et al 2018 Two-Stage Fracturing Wastewater Management in Shale Gas Development.pdf</loc></url>
+<url><loc>http://mads.lanl.gov/papers/Harp &amp; Vesselinov 2012 abagus.pdf</loc></url>
+<url><loc>http://mads.lanl.gov/presentations/lin Hydraulic Inverse Modeling TV SIAM CSE 2017.pdf</loc></url>
 <url><loc>http://mads.lanl.gov/presentations/Vesselinov 2018 Novel Machine Learning Methods for Extraction of Features Characterizing Datasets and Models LA-UR-18-31366.pdf</loc></url>
-<url><loc>http://mads.lanl.gov/papers/Hansen et al 2018 Local Equilibrium and Retardation Revisited.pdf</loc></url>
-<url><loc>http://mads.lanl.gov/papers/Stanev et al 2018 Unsupervised phase mapping of X-ray diffraction data by nonnegative matrix factorization integrated with custom clustering.pdf</loc></url>
+<url><loc>http://mads.lanl.gov/papers/Harp et al 2008 GRL.pdf</loc></url>
+<url><loc>http://mads.lanl.gov/papers/Zhang Vesselinov Integrated Modeling Approach for Optimal Management of Water, Energy and Food Security Nexus 2017.pdf</loc></url>
+<url><loc>http://mads.lanl.gov/papers/Hansen et al Push-pull tracer tests their information content and use for characterizing non-Fickian, mobile-immobile behavior 2016.pdf</loc></url>
+<url><loc>http://mads.lanl.gov/presentations/omalley_biguq_LAUR_14-28376.pdf</loc></url>
+<url><loc>http://mads.lanl.gov/papers/Hansen et al 2017 Inferring subsurface heterogeneity from push-drift tracer tests.pdf</loc></url>
+<url><loc>http://mads.lanl.gov/papers/Freedman et al 2014 A high-performance workflow system for subsurface simulation.pdf</loc></url>
+<url><loc>http://mads.lanl.gov/papers/Lu et al 2018 Identifying arbitrary parameter zonation using multiple level set functions.pdf</loc></url>
+<url><loc>http://mads.lanl.gov/presentations/Leif_LM_presentation_m.pdf</loc></url>
+<url><loc>http://mads.lanl.gov/papers/Alexandrov &amp; Vesselinov 2014 Blind source separation for groundwater pressure analysis based on nonnegative matrix factorization.pdf</loc></url>
+<url><loc>http://mads.lanl.gov/papers/Vesselinov et al 2018 Unsupervised Machine Learning Based on Non-Negative Tensor Factorization for Analyzing Reactive-Mixing.pdf</loc></url>
+<url><loc>http://mads.lanl.gov/papers/Mishra et al 2012 Variable Rate GW.pdf</loc></url>
+<url><loc>http://mads.lanl.gov/presentations/LA-UR-12-22187 agni cmwr 20120614.pdf</loc></url>
+<url><loc>http://mads.lanl.gov/presentations/omalley_tsallisentropy_LAUR_14-29018.pdf</loc></url>
+<url><loc>http://mads.lanl.gov/presentations/agu20121209mads_ascem_big_splitted.pdf</loc></url>
+<url><loc>http://mads.lanl.gov/presentations/vesselinov omalley MADS LA-UR-16-29120 agu2016.pdf</loc></url>
+<url><loc>http://mads.lanl.gov/papers/Vesselinov et al 2018 Nonnegative Tensor Factorization for Contaminant Source Identification.pdf</loc></url>
+<url><loc>http://mads.lanl.gov/reports/LA-UR-08-4702-Fate&amp;Trans_Cr_Sandia_Jul08.pdf</loc></url>
+<url><loc>http://mads.lanl.gov/presentations/OMalley et al 2017 Nonnegative binary matrix factorization with a D-Wave quantum annealer.pdf</loc></url>
+<url><loc>http://mads.lanl.gov/papers/Vesselinov 2006 cmwr06 Uncertainties In Transient Capture-Zone Estimates.pdf</loc></url>
 <url><loc>http://mads.lanl.gov/papers/Harp &amp; Vesselinov 2010 gw.pdf</loc></url>
+<url><loc>http://mads.lanl.gov/papers/OMalley et al 2017 Nonnegative:binary matrix factorization with a D-Wave quantum annealer.pdf</loc></url>
+<url><loc>http://mads.lanl.gov/presentations/vesselinov Decision Analyses for Groundwater Remediation LA-UR-17-21909 wmsym2017.pdf</loc></url>
+<url><loc>http://mads.lanl.gov/papers/Stanev et al 2018 Unsupervised phase mapping of X-ray diffraction data by nonnegative matrix factorization integrated with custom clustering.pdf</loc></url>
+<url><loc>http://mads.lanl.gov/papers/Hansen Vesselinov Contaminant point source localization error estimates as functions of data quantity and model quality 2016.pdf</loc></url>
+<url><loc>http://mads.lanl.gov/papers/Vrugt et al 2007 VZJ.pdf</loc></url>
+<url><loc>http://mads.lanl.gov/papers/Harp &amp; Vesselinov 2010 SERRA.pdf</loc></url>
+<url><loc>http://mads.lanl.gov/presentations/lin et al Hydraulic Inverse Modeling TV AGU 2016.pdf</loc></url>
+<url><loc>http://mads.lanl.gov/papers/Harp &amp; Vesselinov 2013 exp.pdf</loc></url>
 <url><loc>http://mads.lanl.gov/reports/LA-UR-08-5852-Paj_Cyn_IR.pdf</loc></url>
 <url><loc>http://mads.lanl.gov/papers/Bakarji et al 2017 Agent-Based Socio-Hydrological Hybrid Modeling for Water Resource Management.pdf</loc></url>
-<url><loc>http://mads.lanl.gov/papers/Vesselinov &amp; Harp 2010 cmwr decision.pdf</loc></url>
-<url><loc>http://mads.lanl.gov/papers/Harp &amp; Vesselinov 2012 abagus.pdf</loc></url>
-<url><loc>http://mads.lanl.gov/papers/Grasinger et al 2016 Decision analysis for robust CO2 injection: Application of Bayesian-Information-Gap Decision Theory.pdf</loc></url>
+<url><loc>http://mads.lanl.gov/papers/Harp &amp; Vesselinov 2013 Contaminant remediation decision analysis using information.pdf</loc></url>
 <url><loc>http://mads.lanl.gov/papers/Vrugt et al 2005 GRL.pdf</loc></url>
-<url><loc>http://mads.lanl.gov/papers/OMalley et al 2017 Nonnegative:binary matrix factorization with a D-Wave quantum annealer.pdf</loc></url>
-<url><loc>http://mads.lanl.gov/presentations/hansen et al Prediction of Breakthrough Curves for Conservative and Reactive Transport AGU 2016.pdf</loc></url>
-<url><loc>http://mads.lanl.gov/presentations/zhang vesselinov Bi-Level Decision Making for Supporting Energy and Water Nexus AGU 2016.pdf</loc></url>
-<url><loc>http://mads.lanl.gov/papers/Vesselinov 2017 Contaminant source identification using semi-supervised machine learning.pdf</loc></url>
-<url><loc>http://mads.lanl.gov/papers/Zhang Vesselinov Integrated Modeling Approach for Optimal Management of Water, Energy and Food Security Nexus 2017.pdf</loc></url>
-<url><loc>http://mads.lanl.gov/papers/Mattis et al 2015 Parameter estimation and prediction for groundwatercontamination based on measure theory.pdf</loc></url>
-<url><loc>http://mads.lanl.gov/papers/Harp &amp; Vesselinov 2013 exp.pdf</loc></url>
-<url><loc>http://mads.lanl.gov/papers/Vesselinov et al 2018 Nonnegative Tensor Factorization for Contaminant Source Identification.pdf</loc></url>
-<url><loc>http://mads.lanl.gov/papers/Mishra et al 2012 Variable Rate GW.pdf</loc></url>
-<url><loc>http://mads.lanl.gov/reports/LA-UR-05-6397 Decision Analysis-GWContaminants020106.pdf</loc></url>
-<url><loc>http://mads.lanl.gov/presentations/hansen et al Analysis of Hydrologic Time Series Reconstruction Uncertainty due to Inverse Model Inadequacy AGU 2016.pdf</loc></url>
-<url><loc>http://mads.lanl.gov/presentations/wmsym20130304splitanimations-LA-UR-13-21534.pdf</loc></url>
-<url><loc>http://mads.lanl.gov/papers/OMalley Vesselinov 2014 A Combined Probabilistic Nonprobabilistic Decision Analysis for Contaminant Remediation.pdf</loc></url>
+<url><loc>http://mads.lanl.gov/papers/Vesselinov 2004 Estimation of parameter uncertainty using inverse model sensitivities.pdf</loc></url>
+<url><loc>http://mads.lanl.gov/papers/OMalley Vesselinov ToQ.jl A high-level programming language for D-Wave machines based on Julia 2016.pdf</loc></url>
+<url><loc>http://mads.lanl.gov/papers/OMalley Vesselinov 2014 Analytical solutions for anomalous dispersion transport.pdf</loc></url>
+<url><loc>http://mads.lanl.gov/papers/Iliev et al 2018 Nonnegative Matrix Factorization for identification of unknown number of sources emitting delayed signals.pdf</loc></url>
+<url><loc>http://mads.lanl.gov/presentations/Vesselinov 2018 Novel Machine Learning Methods for Extraction of Features Characterizing Complex Datasets and Models LA-UR-18-30987.pdf</loc></url>
+<url><loc>http://mads.lanl.gov/papers/Throckmorton et al 2016 Active layer hydrology in an arctic tundra ecosystem quantifying water source  and cycling using water stable isotopes.pdf</loc></url>
+<url><loc>http://mads.lanl.gov/papers/Barajas et al 2015 Linear functional minimization for inverse modeling.pdf</loc></url>
+<url><loc>http://mads.lanl.gov/papers/Morales et al 2010 MLBA serra.pdf</loc></url>
+<url><loc>http://mads.lanl.gov/papers/OMalley Vesselinov Cushman 2014 A Method for Identifying Diffusive Trajectories with Stochastic Models.pdf</loc></url>
+<url><loc>http://mads.lanl.gov/presentations/vesselinov LA-UR-06-2305 cmwr06 transeint capture zone 060622.pdf</loc></url>
 </urlset>
