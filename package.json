@@ -5,7 +5,8 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "start": "next start"
+    "start": "npx serve@latest out",
+    "preview": "npx serve@latest out"
   },
   "dependencies": {
     "@emotion/react": "^11.14.0",
@@ -23,6 +24,7 @@
     "typescript": "^5.7.0"
   },
   "engines": {
-    "node": ">=18.18"
+    "node": ">=20 <23"
   }
 }
+
