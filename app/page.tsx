@@ -213,10 +213,10 @@ export default function HomePage() {
               <Button variant="outlined" href="/papers" target="_blank" rel="noreferrer">
                 Papers
               </Button>
-            <Button variant="outlined" href="/presentations/" target="_blank" rel="noreferrer">
+            <Button variant="outlined" href="/presentations" target="_blank" rel="noreferrer">
               Presentations folder
             </Button>
-            <Button variant="outlined" href="/reports/" target="_blank" rel="noreferrer">
+            <Button variant="outlined" href="/reports" target="_blank" rel="noreferrer">
               Reports folder
             </Button>
           </Stack>

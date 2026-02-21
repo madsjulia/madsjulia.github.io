@@ -3,9 +3,12 @@ import path from "node:path";
 import pdf from "pdf-parse";
 
 const repoRoot = process.cwd();
-const papersDir = path.join(repoRoot, "public", "papers");
-const outDir = path.join(repoRoot, "app", "papers");
-const outFile = path.join(outDir, "papers.generated.json");
+
+const sections = [
+  { key: "papers", publicDir: path.join(repoRoot, "public", "papers") },
+  { key: "presentations", publicDir: path.join(repoRoot, "public", "presentations") },
+  { key: "reports", publicDir: path.join(repoRoot, "public", "reports") },
+];
 
 const isPdf = (fileName) => fileName.toLowerCase().endsWith(".pdf");
 
@@ -66,20 +69,23 @@ const tryParsePdf = async (filePath) => {
   };
 };
 
-const listPdfFiles = async () => {
-  const entries = await fs.readdir(papersDir, { withFileTypes: true });
+const listPdfFiles = async (publicDir) => {
+  const entries = await fs.readdir(publicDir, { withFileTypes: true });
   return entries
     .filter((e) => e.isFile())
     .map((e) => e.name)
     .filter((name) => isPdf(name));
 };
 
-const main = async () => {
+const generateSectionIndex = async ({ key, publicDir }) => {
+  const outDir = path.join(repoRoot, "app", key);
+  const outFile = path.join(outDir, `${key}.generated.json`);
+
   let pdfFiles;
   try {
-    pdfFiles = await listPdfFiles();
+    pdfFiles = await listPdfFiles(publicDir);
   } catch (err) {
-    console.error(`Failed to read papers directory: ${papersDir}`);
+    console.error(`Failed to read directory: ${publicDir}`);
     console.error(err);
     process.exitCode = 1;
     return;
@@ -90,12 +96,12 @@ const main = async () => {
     const outStat = await fs.stat(outFile);
     let newestPdfMtimeMs = 0;
     for (const fileName of pdfFiles) {
-      const stat = await fs.stat(path.join(papersDir, fileName));
+      const stat = await fs.stat(path.join(publicDir, fileName));
       newestPdfMtimeMs = Math.max(newestPdfMtimeMs, stat.mtimeMs);
     }
 
     if (outStat.mtimeMs >= newestPdfMtimeMs) {
-      console.log(`Papers index already up to date -> ${path.relative(repoRoot, outFile)}`);
+      console.log(`${key} index already up to date -> ${path.relative(repoRoot, outFile)}`);
       return;
     }
   } catch {
@@ -104,7 +110,7 @@ const main = async () => {
 
   const items = [];
   for (const fileName of pdfFiles) {
-    const filePath = path.join(papersDir, fileName);
+    const filePath = path.join(publicDir, fileName);
 
     try {
       const stat = await fs.stat(filePath);
@@ -112,7 +118,7 @@ const main = async () => {
 
       items.push({
         fileName,
-        href: `/papers/${encodeURIComponent(fileName)}`,
+        href: `/${key}/${encodeURIComponent(fileName)}`,
         title: meta.title ?? titleFromFilename(fileName),
         authors: meta.authors,
         bytes: stat.size,
@@ -120,7 +126,7 @@ const main = async () => {
     } catch (err) {
       items.push({
         fileName,
-        href: `/papers/${encodeURIComponent(fileName)}`,
+        href: `/${key}/${encodeURIComponent(fileName)}`,
         title: titleFromFilename(fileName),
         authors: null,
         bytes: null,
@@ -138,9 +144,15 @@ const main = async () => {
   });
 
   await fs.mkdir(outDir, { recursive: true });
-  await fs.writeFile(outFile, JSON.stringify({ generatedAt: new Date().toISOString(), items }, null, 2) + "\n", "utf8");
+  await fs.writeFile(
+    outFile,
+    JSON.stringify({ generatedAt: new Date().toISOString(), items }, null, 2) + "\n",
+    "utf8",
+  );
 
-  console.log(`Generated ${items.length} paper entries -> ${path.relative(repoRoot, outFile)}`);
+  console.log(`Generated ${items.length} ${key} entries -> ${path.relative(repoRoot, outFile)}`);
 };
 
-await main();
+for (const section of sections) {
+  await generateSectionIndex(section);
+}

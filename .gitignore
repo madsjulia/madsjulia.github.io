@@ -9,6 +9,8 @@ out/
 
 # Generated content
 app/papers/papers.generated.json
+app/presentations/presentations.generated.json
+app/reports/reports.generated.json
 
 # Logs
 npm-debug.log*
