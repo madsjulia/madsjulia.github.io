@@ -210,9 +210,9 @@ export default function HomePage() {
             <Button variant="contained" href="#downloads">
               Downloads
             </Button>
-            <Button variant="outlined" href="/papers/" target="_blank" rel="noreferrer">
-              Papers folder
-            </Button>
+              <Button variant="outlined" href="/papers" target="_blank" rel="noreferrer">
+                Papers
+              </Button>
             <Button variant="outlined" href="/presentations/" target="_blank" rel="noreferrer">
               Presentations folder
             </Button>

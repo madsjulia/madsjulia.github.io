@@ -3,7 +3,9 @@
   "private": true,
   "version": "0.1.0",
   "scripts": {
+    "predev": "node scripts/generate-papers-index.mjs",
     "dev": "next dev",
+    "prebuild": "node scripts/generate-papers-index.mjs",
     "build": "next build",
     "start": "npx serve@latest out",
     "preview": "npx serve@latest out"
@@ -21,6 +23,7 @@
     "@types/node": "^22.0.0",
     "@types/react": "^19.0.0",
     "@types/react-dom": "^19.0.0",
+    "pdf-parse": "^1.1.1",
     "typescript": "^5.7.0"
   },
   "engines": {
